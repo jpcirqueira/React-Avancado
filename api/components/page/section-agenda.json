@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_page_section_agenda",
+  "info": {
+    "name": "SectionAgenda",
+    "icon": "address-book"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "richtext",
+      "private": false,
+      "required": true
+    }
+  }
+}
